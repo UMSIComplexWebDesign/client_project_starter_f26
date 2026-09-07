@@ -1,2 +1,2 @@
-# client_project_starter_f26
-Starter code for Fall 2026 Client Project
+# Client_Project_Starter_Code
+Starter code for the Fall 2025 & Winter 2026 Client Project
